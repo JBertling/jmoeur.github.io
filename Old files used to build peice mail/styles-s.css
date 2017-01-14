@@ -1,0 +1,29 @@
+* {
+  font-family:monospace
+}
+h1{ color:blue;
+    font-size: 55px;
+    outline: 4px blue solid;
+    text-align: center;
+}
+
+.business {color:red;}
+.centered {
+  text-align: center;
+}
+
+ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.BusinessTile {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.BurgerKingTile {}
+.McDonaldsTile {}
+.Pub217Tile {}
+.SauceTile {}
